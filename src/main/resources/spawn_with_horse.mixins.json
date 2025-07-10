@@ -2,7 +2,7 @@
   "required": true,
   "package": "com.example.examplemod.mixins",
   "compatibilityLevel": "JAVA_21",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "start_with_horse.refmap.json",
   "mixins": [
   ],
   "client":[
